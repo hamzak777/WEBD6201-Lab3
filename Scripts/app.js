@@ -1,3 +1,6 @@
+// Hamza Khan 100709587
+// Date Completed: 03/16/2020
+
 class Contact
 {
     constructor(contactName = "", emailAddress = "", contactNumber = "", contactMessage = "")
